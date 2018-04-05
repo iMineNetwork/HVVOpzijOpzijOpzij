@@ -6,5 +6,6 @@
 !.gitignore
 !src/
 !/src/**/*
+!HVVOpzijOpzijOpzij.iml
 
 *.ini
