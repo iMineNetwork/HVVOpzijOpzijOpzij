@@ -1,0 +1,10 @@
+*
+
+!build.gradle
+!.gitlab-ci.yml
+!pom.xml
+!.gitignore
+!src/
+!/src/**/*
+
+*.ini
